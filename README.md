@@ -1,2 +1,2 @@
-# GrowthHungry Academy DM and DS & A Homework Submission Examples  
+# GH Academy DM and DS&A Homework Submissions  
 Examples of GrowthHungry Academy Discrete Mathematics and Data Structure &amp; Algorithms homework submissions.
